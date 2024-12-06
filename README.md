@@ -1,4 +1,5 @@
 # ClaimsProcessor
 Technical-Test
 
-test 1
+ClaimsRecord class:
+Represents a single row from the input CSV
